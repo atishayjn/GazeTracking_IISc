@@ -10,7 +10,7 @@ Install flask, flask_cors and PyAutoGUI using pip.
 
 1. Go to "WebGazer-master/www/". 
 2. Host "calibration.html" on localhost. Either use `python -m http.server` or using VSCode "LiveServer" (easier).
-3. Open LocalHost and calibrate the model.
+3. Run the LocalHost and calibrate the model.
 4. Run "mouseMouse.py".  
 
 #### Note: 
